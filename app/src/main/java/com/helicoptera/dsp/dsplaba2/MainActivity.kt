@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         private const val PHASE = Math.PI / 2
-        private const val N = 64
+        private const val N = 512
         private const val EXPECTED_AMPLITUDE = 1.0
         private const val EXPECTED_ROOT_MEAN_SQUARE = 0.707
 
